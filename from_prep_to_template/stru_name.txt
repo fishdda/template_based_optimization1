@@ -1,0 +1,24 @@
+PGTVnx6996
+PGTVnd6996
+PTV5096
+Spinal Cord
+Cord PRV
+Brain Stem
+Stem PRV
+Len L
+Len R
+Optic Chiasm
+Optic Nerve L
+Optic Nerve R
+Pituitary
+TMJ-L
+TMJ-R
+Inner Ears
+PAROTIDS
+Esophagus
+Trachea
+Thyroid
+Mandible
+Oral Cavity
+Larynx
+Neck
